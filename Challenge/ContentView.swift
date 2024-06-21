@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+// init
 struct ContentView: View {
     var body: some View {
         SunFlower()
